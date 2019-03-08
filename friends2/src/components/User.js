@@ -1,9 +1,10 @@
 import React from 'react';
+import FriendsList from './FriendsList'
 
 const User = () => {
     return (
         <div>
-            <h1>Working?</h1>
+            <FriendsList />
         </div>
     )
 }
